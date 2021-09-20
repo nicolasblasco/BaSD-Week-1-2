@@ -18,7 +18,7 @@ de Github. El link del repositorio debe ser subido como respuesta del objetivo s
 
 Se seleccionó la siguiente noticia: https://culturageek.com.ar/playstation-5-tutorial-como-instalar-una-ssd-m-2-en-ps5-paso-a-paso-modelos-recomendados-y-sugerencias/
 
-Se realizó el proyecto con HTML. 
+Se realizó el proyecto con HTML: file:///C:/Users/Nico/Desktop/BaSD/PS1/index.html
 
 #Notas
 
