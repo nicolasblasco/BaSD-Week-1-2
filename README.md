@@ -4,7 +4,7 @@ User: nicolasblasco
 
 Email: nicoblasco96@gmail.com 
 
-<!--Proyecto-->
+##Proyecto
 
 Problemática semanal 1 del curso de Radium Rocket "Become a Software Developer".  
 
