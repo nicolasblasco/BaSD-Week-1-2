@@ -22,7 +22,7 @@ Se realizó el proyecto con HTML.
 
 #Notas
 
-- Se utilizó el mismo video en la resolucion por consecuencia de que el segundo video duraba 2 horas y pesaba 314 MB.  
-- Utilizar el segundo no era beneficioso para uno de los objetivos del problema: demostrar la correcta utilizacion de los elementos de HTML.
+- Se utilizó el mismo video en la resolucion, por consecuencia de que el segundo video tenia una duración de 2 horas.  
+- Utilizar el segundo video no era beneficioso para uno de los objetivos del problema: demostrar la correcta utilizacion de los elementos de HTML.
 
 
