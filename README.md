@@ -1,6 +1,7 @@
 # Noticia-Playstation-5-tutorial
 
 User: nicolasblasco
+
 Email: nicoblasco96@gmail.com 
 
 #Proyecto
@@ -16,6 +17,7 @@ de Github. El link del repositorio debe ser subido como respuesta del objetivo s
 #Resolución
 
 Se seleccionó la siguiente noticia: https://culturageek.com.ar/playstation-5-tutorial-como-instalar-una-ssd-m-2-en-ps5-paso-a-paso-modelos-recomendados-y-sugerencias/
+
 Se realizó el proyecto con HTML. 
 
 #Notas
