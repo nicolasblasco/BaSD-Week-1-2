@@ -1,0 +1,43 @@
+
+body {
+    background-color: #ededed;
+    font-family:'Open Sans', sans-serif;
+}
+#navbar {
+    text-align: center;
+    color: white;
+}
+#navbar #main ul{
+    padding: 0;
+    list-style: none;
+    background-color: black;
+}
+#navbar #main li{
+    display: inline;
+}
+#navbar #second ul{
+    padding: 0;
+    list-style: none;
+    background-color: red;
+}
+#navbar #second li{
+    display: inline;
+}
+.container {
+    max-width: 970px;
+    margin: auto;
+}
+#article{
+    float: left;
+    max-width: 650px;
+}
+#aside{
+    float: right;
+} 
+img {
+    width: 100%;
+}
+
+
+
+
