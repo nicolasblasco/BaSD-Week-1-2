@@ -1,4 +1,3 @@
-
 body {
     background-color: #ededed;
     font-family:'Open Sans', sans-serif;
@@ -37,7 +36,12 @@ body {
 img {
     width: 100%;
 }
-
+.logos ul {
+    list-style: none;
+}
+.logos li {
+    list-style-image:url(../images/facebook.png);
+}
 
 
 
