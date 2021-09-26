@@ -1,6 +1,6 @@
-# My Newspaper 
+# my-newspaper
 
-## Proyect
+## Project
 
 Weekly problems of the Radium Rocket Course "Become a Software Developer"  
 
@@ -15,33 +15,24 @@ We propose to look for a new newspaper in English, but we must pay attention to 
 It will also be necessary to add a link to the beginning or end of each news item to navigate within the newspaper that we are creating. That is, from the news of week 1 to the news of week 2 and vice versa.
 Finally, they must create a README document to the repository where the URLs of the original news are explicit so that tutors can compare.
 
+This project was made with HTML & CSS. 
+
 ## Resolution 
+
+Week 1 news article: https://culturageek.com.ar/playstation-5-tutorial-como-instalar-una-ssd-m-2-en-ps5-paso-a-paso-modelos-recomendados-y-sugerencias/
+Week 2 news article: https://www.pcgamer.com/uk/windows-11-release-date-features-specs-pricing/
 
 ## Notes
 
+- The same video was used in the resolution of the first news article, as a result of the second video having a duration of 2 hours.
+- Using the second video was not beneficial for one of the objectives of the problem: to demonstrate the correct use of the HTML elements.
 
+## Contributors
 
-User: nicolasblasco
-
-Email: nicoblasco96@gmail.com 
-
---Proyecto--
-
-Problemática semanal 1 del curso de Radium Rocket "Become a Software Developer".  
-
---Descripción--
+- Nicolas Blasco <nicoblasco96@gmail.com>
 
 
 
---Resolución--
 
-Se seleccionó la siguiente noticia: https://culturageek.com.ar/playstation-5-tutorial-como-instalar-una-ssd-m-2-en-ps5-paso-a-paso-modelos-recomendados-y-sugerencias/
-
-Se realizó el proyecto con HTML
-
---Notas--
-
-- Se utilizó el mismo video en la resolucion, por consecuencia de que el segundo video tenia una duración de 2 horas.  
-- Utilizar el segundo video no era beneficioso para uno de los objetivos del problema: demostrar la correcta utilizacion de los elementos de HTML.
 
 
