@@ -226,5 +226,9 @@ aside figcaption a {
    color: #333;
 }
 
+aside figcaption a :hover {
+    text-decoration: underline;
+ }
+
 
 
