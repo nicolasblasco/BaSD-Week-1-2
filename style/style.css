@@ -5,7 +5,7 @@ body {
     font-family:'Open Sans',Arial,sans-serif;
     color: #333;
 }
-article{
+article {
     width: 650px;
     margin-bottom: 40px;
 }
@@ -13,10 +13,10 @@ article{
     color: #dc191b;
     text-decoration: none;
 }
-.link :hover{
+.link :hover {
     text-decoration: underline;
 }
-header{
+header {
     margin: 30px 24px 0px 24px;
 }
 .title{
@@ -32,14 +32,19 @@ header{
     font-size: 13px;
     line-height: 23px;   
 }
-.subtitle{
+.subtitle {
     margin-bottom: 20px;
     font-size: 20px;
     line-height: 28px;
     font-weight: 300;
 }
-.content{
+.content {
     margin:0 20px;
+}
+.content p {
+    margin-bottom: 16px;
+    font-size: 16px;
+    line-height: 1.5;
 }
 figure{
     margin:0px;
@@ -55,4 +60,41 @@ figure{
     margin-top: 10px;
     font-size: 12px;
     line-height: 16px;
+}
+.list {
+
+}
+.list ul {
+    margin-bottom: 16px;
+}
+.red-title {
+    margin: 18px 0 12px 0;
+    padding: 10px 0 0 0;
+    text-align: center;
+    border-bottom: 2px solid #DC191B;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 18px 0;
+}
+.red-title span {
+    display: inline-block;
+    background-color: #DC191B;
+    color: #fff;
+    padding: 1px 75px;
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+}
+iframe {
+    margin: 0 0 16px 0;
+}
+h4{
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    padding-top: 10px;
+    width: 100%;
+    font-family: "Roboto Condensed",sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
 }
