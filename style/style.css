@@ -1,6 +1,70 @@
 body {
     background-color: #ededed;
-    font-family:'Open Sans', sans-serif;
+    font-family:'Open Sans',Arial,sans-serif;
+    color: #333;
+}
+a {
+    color: #dc191b;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+h1 {
+    margin-bottom: .5rem;
+    padding: 0;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 50px;
+    font-family: "Roboto Condensed",sans-serif;
+}
+h2 {
+    color: #333;
+    font-size: 20px;
+    line-height: 28px;
+    margin-bottom: 1em;
+    font-weight: 300;
+}
+h3 {
+
+}
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 1em;
+}
+figcaption {
+    font-size: 11px;
+    line-height: 15px;
+}
+
+
+
+
+
+#navbar a{
+    color: #ededed;
+}
+
+header {
+    margin: 0 24px;
+    margin-top: 30px;
+}
+header small {
+    font-size: 13px;
+    margin-bottom: 30px;
+
+}
+figure{
+    width: 100%;
+    margin-bottom: 30px;
+}
+figure img{
+    width: 100%;
+}
+
+.list {
+    margin-bottom: 1em;
 }
 #navbar {
     text-align: center;
@@ -16,6 +80,7 @@ body {
 }
 #navbar #second ul{
     padding: 0;
+    
     list-style: none;
     background-color: red;
 }
@@ -30,18 +95,14 @@ body {
     float: left;
     max-width: 650px;
 }
+/*
 #aside{
     float: right;
+    margin-top: 0.875em;
 } 
-img {
-    width: 100%;
-}
-.logos ul {
-    list-style: none;
-}
-.logos li {
-    list-style-image:url(../images/facebook.png);
-}
+*/
+
+
 
 
 
