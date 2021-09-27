@@ -1,108 +1,58 @@
 body {
+    width: 970px;
+    margin: auto;
     background-color: #ededed;
     font-family:'Open Sans',Arial,sans-serif;
     color: #333;
 }
-a {
+article{
+    width: 650px;
+    margin-bottom: 40px;
+}
+.link{
     color: #dc191b;
     text-decoration: none;
 }
-a:hover{
+.link :hover{
     text-decoration: underline;
 }
-h1 {
-    margin-bottom: .5rem;
-    padding: 0;
-    font-weight: 600;
+header{
+    margin: 30px 24px 0px 24px;
+}
+.title{
+    margin-bottom: 8px;
+    font-family: 'Roboto Condensed', sans-serif;
     font-size: 42px;
     line-height: 50px;
-    font-family: "Roboto Condensed",sans-serif;
+    font-weight: 600;
 }
-h2 {
-    color: #333;
+.byline {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 13px;
+    line-height: 23px;   
+}
+.subtitle{
+    margin-bottom: 20px;
     font-size: 20px;
     line-height: 28px;
-    margin-bottom: 1em;
     font-weight: 300;
 }
-h3 {
-
-}
-p {
-    font-size: 16px;
-    line-height: 1.5;
-    margin-bottom: 1em;
-}
-figcaption {
-    font-size: 11px;
-    line-height: 15px;
-}
-
-
-
-
-
-#navbar a{
-    color: #ededed;
-}
-
-header {
-    margin: 0 24px;
-    margin-top: 30px;
-}
-header small {
-    font-size: 13px;
-    margin-bottom: 30px;
-
+.content{
+    margin:0 20px;
 }
 figure{
-    width: 100%;
+    margin:0px;
+}
+.image-content{
     margin-bottom: 30px;
-}
-figure img{
     width: 100%;
 }
-
-.list {
-    margin-bottom: 1em;
+.image-content img{
+    width: 100%;
 }
-#navbar {
-    text-align: center;
-    color: white;
+.image-content figcaption{
+    margin-top: 10px;
+    font-size: 12px;
+    line-height: 16px;
 }
-#navbar #main ul{
-    padding: 0;
-    list-style: none;
-    background-color: black;
-}
-#navbar #main li{
-    display: inline;
-}
-#navbar #second ul{
-    padding: 0;
-    
-    list-style: none;
-    background-color: red;
-}
-#navbar #second li{
-    display: inline;
-}
-.container {
-    max-width: 970px;
-    margin: auto;
-}
-#article{
-    float: left;
-    max-width: 650px;
-}
-/*
-#aside{
-    float: right;
-    margin-top: 0.875em;
-} 
-*/
-
-
-
-
-
